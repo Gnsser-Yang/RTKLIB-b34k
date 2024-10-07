@@ -1,0 +1,36 @@
+﻿  datum.c
+  ephemeris.c
+  geoid.c
+  lambda.c
+  options.c
+  pntpos.c
+D:\WORKTOP\GNSS\Code\MyRTKLIB-b34k\src\options.c(435,15): warning C4101: “q”: 未引用的局部变量
+D:\WORKTOP\GNSS\Code\MyRTKLIB-b34k\src\options.c(446,15): warning C4101: “q”: 未引用的局部变量
+  postpos.c
+  ppp.c
+  ppp_ar.c
+  preceph.c
+  rinex.c
+  tides.c
+  rtcm.c
+  rtcm2.c
+  rtcm3.c
+  rtcm3e.c
+  rtkcmn.c
+D:\WORKTOP\GNSS\Code\MyRTKLIB-b34k\src\rtkcmn.c(2757,11): warning C4101: “q”: 未引用的局部变量
+D:\WORKTOP\GNSS\Code\MyRTKLIB-b34k\src\rtkcmn.c(2959,15): warning C4101: “q”: 未引用的局部变量
+  trace.c
+  rtkpos.c
+D:\WORKTOP\GNSS\Code\MyRTKLIB-b34k\src\rtkpos.c(1718,35): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\WORKTOP\GNSS\Code\MyRTKLIB-b34k\src\rtkpos.c(1720,58): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\WORKTOP\GNSS\Code\MyRTKLIB-b34k\src\rtkpos.c(1722,30): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\WORKTOP\GNSS\Code\MyRTKLIB-b34k\src\rtkpos.c(1784,37): warning C4244: “+=”: 从“double”转换到“float”，可能丢失数据
+D:\WORKTOP\GNSS\Code\MyRTKLIB-b34k\src\rtkpos.c(1961,22): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  sbas.c
+  正在生成代码...
+  正在编译...
+  solution.c
+  rnx2rtkp.c
+  正在生成代码...
+  ionex.c
+  msc.vcxproj -> D:\WORKTOP\GNSS\Code\MyRTKLIB-b34k\app\consapp\rnx2rtkp\msc\Debug\rnx2rtkp.exe
